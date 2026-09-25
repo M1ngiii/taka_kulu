@@ -10,6 +10,7 @@ Sai valitud MIT litsents, sest see lubab koodi vabalt kasutada, muuta ja jagada,
 
 ## Struktuur
 
-`BASH/` — käsurea harjutused ja bash-skriptid
-
-`DOCKER/` — Dockeri harjutused ja Dockerfile
+- `BASH/` - käsurea harjutused ja bash-skriptid
+- `DOCKER/` - Dockeri harjutused ja Dockerfile
+- `PYTHON/` - Jupyteri töövihikud (Python, Pandas, Seaborn)
+- `data/` - kursuse andmestikud
