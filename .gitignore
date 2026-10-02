@@ -4,3 +4,6 @@ BASH/bash_eksperiment/results/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# SQL data
+data/BikeStores_Sample_Database/
