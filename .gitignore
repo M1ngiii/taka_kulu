@@ -7,3 +7,7 @@ BASH/bash_eksperiment/results/
 
 # SQL data
 data/BikeStores_Sample_Database/
+
+#R
+R/scatter_plot_custom_theme.pdf
+R/scatter_plot_custom_theme.png

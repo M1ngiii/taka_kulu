@@ -14,4 +14,5 @@ Sai valitud MIT litsents, sest see lubab koodi vabalt kasutada, muuta ja jagada,
 - `DOCKER/` - Dockeri harjutused ja Dockerfile
 - `PYTHON/` - Jupyteri töövihikud (Python, Pandas, Seaborn)
 - `SQL/` - SQL-i harjutused PostgreSQL-i peal
+- `R/` - RStudio ja R harjutused
 - `data/` - kursuse andmestikud
